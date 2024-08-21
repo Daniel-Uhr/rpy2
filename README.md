@@ -7,7 +7,7 @@ The project's webpage is here: https://rpy2.github.io/
 `pip` should work out of the box:
 
 ```bash
-pip install rpy2
+pip install git+https://github.com/Daniel-Uhr/rpy2.git
 ```
 
 To install all optional dependencies (numpy, pandas, ipython), use:
